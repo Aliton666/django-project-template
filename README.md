@@ -7,7 +7,7 @@
 Установите зависимости с помощью pip:
 
 ```bash
-pip install django django-jazzmin djangorestframework drf-yasg Pillow
+pip install django djangorestframework drf-yasg Pillow
 ```
 
 ## Конфигурация
